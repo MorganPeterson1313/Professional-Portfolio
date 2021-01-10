@@ -13,6 +13,7 @@ export class Projects extends Component {
             <div>
                   <Jumbotron style={{margin:"20%" , opacity:"90%", border: "2px solid green",boxShadow: "10px 5px 5px green"}} fluid>
         <Container>
+            <h1 style={{color:"green"}}>Projects</h1>
             <Nav>
 
         <Nav.Link href="https://myfitforthesoul.netlify.app">
